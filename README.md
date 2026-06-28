@@ -1,6 +1,6 @@
 # 🧭 MazeRL: Interactive Q-Learning Maze Simulator
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue?style=for-the-badge&logo=github)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue?style=for-the-badge&logo=github)](https://kshitijkasodkar.github.io/Maze-Reinforcement-Learning/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 MazeRL is an elegant, interactive web-based visualization tool that brings **Q-Learning** to life in a grid-based maze environment. Design custom mazes, train an RL agent, fine-tune hyperparameters, and witness optimal paths emerge - all seamlessly within your browser.
@@ -9,7 +9,7 @@ MazeRL is an elegant, interactive web-based visualization tool that brings **Q-L
 ---
 ## 🌐 Live Demo
 Experience the fully interactive MazeRL simulator directly in your browser.  
-👉 **Live here:** 
+👉 **Live here:** https://kshitijkasodkar.github.io/Maze-Reinforcement-Learning/
 No installation required - pure client-side execution.
 
 ![alt text](demo.png)
