@@ -131,6 +131,7 @@ Each grid cell $(r, c)$ represents a unique state $s$.
 | **Hit Wall** | -0.6 |
 | **Reach Goal** | +10 |
 
+
 ### Q-Update Equation
 The agent updates its knowledge using the Bellman equation derivative:
   - `Q(s,a) = Q(s,a) + α * (reward + γ * max(Q(s', all_actions)) - Q(s,a))`
@@ -149,6 +150,27 @@ MazeRL/
 │── demo.png            # Screenshot/Demo image
 │── README.md           # This file
 └── assets/             # Auxiliary files (if any)
+```
 
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+# 👨‍💻 Author
+
+**Kshitij Kasodkar**
+
+B.Tech
+
+Dual Major in Material Engineering and Computer Science Engineering
+
+Indian Institute of Technology Gandhinagar
+
+GitHub:
+https://github.com/KshitijKasodkar
 
 ---
