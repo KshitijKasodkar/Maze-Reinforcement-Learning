@@ -149,18 +149,17 @@ MazeRL/
 │── styles.css          # Styling and layout
 │── demo.png            # Screenshot/Demo image
 │── README.md           # This file
-└── assets/             # Auxiliary files (if any)
 ```
 
 ---
 
-# 📄 License
+## 📄 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Kshitij Kasodkar**
 
