@@ -149,3 +149,6 @@ MazeRL/
 │── demo.png            # Screenshot/Demo image
 │── README.md           # This file
 └── assets/             # Auxiliary files (if any)
+
+
+---
